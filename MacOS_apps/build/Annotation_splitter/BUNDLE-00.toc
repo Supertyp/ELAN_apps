@@ -1,0 +1,3 @@
+([('Annotation_splitter',
+   '/Users/u1123114/Downloads/Sam_apps/dist/Annotation_splitter',
+   'EXECUTABLE')],)

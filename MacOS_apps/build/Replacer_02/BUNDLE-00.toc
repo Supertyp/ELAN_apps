@@ -1,0 +1,3 @@
+([('Replacer_02',
+   '/Users/u1123114/Downloads/Sam_apps/dist/Replacer_02',
+   'EXECUTABLE')],)
