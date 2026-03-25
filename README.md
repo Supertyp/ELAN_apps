@@ -22,3 +22,8 @@ dependent annotations
 > :warning: **ALWAYS BACK UP YOUR DATA BEFORE USE**
 
 
+## ELAN_audio_segmentation
+
+App which takes a audio or video file as imput and creates a ELAN file with empty annotations wherever a voice is heard in the audio
+
+> :warning: **ALWAYS BACK UP YOUR DATA BEFORE USE**
